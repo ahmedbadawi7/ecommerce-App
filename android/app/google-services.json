@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "347750954287",
+    "project_id": "albadawi-shop",
+    "storage_bucket": "albadawi-shop.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:347750954287:android:cb1f06c08936b22aeb5dda",
+        "android_client_info": {
+          "package_name": "com.example.ecommerce"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "347750954287-ems3lnv69oq855ts8du1vqkorpdjv8u3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAC3G6LetMIBXSNUEA-WFmraUQeE3orb-s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "347750954287-ems3lnv69oq855ts8du1vqkorpdjv8u3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
